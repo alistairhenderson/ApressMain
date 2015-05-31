@@ -5,3 +5,6 @@
 function foo() {return "hello tracey";}
 
 console.log(foo());
+
+function bar() {}
+console.log(bar());
